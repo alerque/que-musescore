@@ -2,3 +2,5 @@
 !/.config
 !/.config/MusE
 !/.config/MusE/MuseScore.ini
+!/.gitignore.d
+!/.gitignore.d/que-musescore
